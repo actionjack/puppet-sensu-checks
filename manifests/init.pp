@@ -1,6 +1,6 @@
-# == Class: sensu-plugins
+# == Class: sensuchecks
 #
-# Full description of class sensu-plugins here.
+# Full description of class sensuchecks here.
 #
 # === Parameters
 #
@@ -23,7 +23,7 @@
 #
 # === Examples
 #
-#  class { sensu-plugins:
+#  class { sensuchecks:
 #    servers => [ 'pool.ntp.org', 'ntp.local.company.com' ]
 #  }
 #
@@ -35,7 +35,7 @@
 #
 # Copyright 2011 Your name here, unless otherwise noted.
 #
-class sensu-plugins {
+class sensuchecks {
 
 
 }
